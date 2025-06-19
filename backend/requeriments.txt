@@ -1,0 +1,4 @@
+credenciales para admin de Django 
+name eriel 
+gmail sdgeriel@gmail.com
+password arita
